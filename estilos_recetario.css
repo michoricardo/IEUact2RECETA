@@ -1,0 +1,38 @@
+.w3-allerta {
+    font-family: "Allerta Stencil", Sans-serif;
+  }
+
+  .w3-tangerine {
+    font-family: 'Tangerine', serif;
+  }
+
+.centered-thing {
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+    /* top: 50%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%); */
+}
+.colordif
+{
+    color: rgb(46, 23, 23);
+}
+.masgrande
+{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.medianito
+{
+    font-size: large;
+    font-weight: bold;
+}
+body
+{
+    background-image: url(potato.jpg);
+}
+.otrofondo
+{
+    background-image: url(papitasfondo.jpg);
+}
